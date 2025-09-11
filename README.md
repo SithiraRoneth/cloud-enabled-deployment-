@@ -2,18 +2,10 @@
 
 This repository demonstrates a **cloud-enabled microservices architecture** deployed on **Google Cloud Platform (GCP)**.  
 
-It contains **four projects**:
-
-- **course-service** → Spring Boot + MySQL (Cloud SQL)  
-- **student-service** → Spring Boot + MongoDB/Firestore  
-- **media-service** → Spring Boot + File Storage (Local / Cloud Storage)  
-- **frontend-app** → React + TypeScript (Firebase Hosting / Cloud Run)  
-
----
 
 ## 📦 Project Structure
 
-- `course-service` → Spring Boot + MySQL  
+- `course-service` → Spring Boot + MySQL (Cloud SQL)  
 - `student-service` → Spring Boot + MongoDB  
 - `media-service` → Spring Boot + Local file storage (can be extended to Cloud Storage)  
 - `frontend-app` → React + TypeScript  
