@@ -13,10 +13,10 @@ It contains **four projects**:
 
 ## 📦 Project Structure
 
-- course-service (Spring Boot + MySQL)
-- student-service (Spring Boot + MongoDB)
-- media-service (Spring Boot + Local file storage, can be extended to S3/MinIO)
-- frontend-app (React + TypeScript)
+- `course-service` → Spring Boot + MySQL  
+- `student-service` → Spring Boot + MongoDB  
+- `media-service` → Spring Boot + Local file storage (can be extended to Cloud Storage)  
+- `frontend-app` → React + TypeScript  
 
 ---
 
@@ -38,13 +38,10 @@ spring.datasource.url=jdbc:mysql://<CLOUD_SQL_IP>:3306/course_db
 spring.datasource.username=<USERNAME>
 spring.datasource.password=<PASSWORD>
 
+```
 
----
+## 🔧 How to Use This Repository ### 
 
-## 🔧 How to Use This Repository
-
-### 1. Clone the repository
-```bash
-git clone (https://github.com/SithiraRoneth/cloud-enabled-deployment-.git)
-cd cloud-gcp-deployment
-
+- Clone the repository bash git
+  ``` clone https://github.com/SithiraRoneth/cloud-enabled-deployment-.git ```
+- cd cloud-gcp-deployment
