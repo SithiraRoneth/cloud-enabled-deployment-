@@ -44,3 +44,7 @@ spring.datasource.password=<PASSWORD>
 - watch here : https://drive.google.com/file/d/1Z8vIKPWhjkIzzBOeMvkzp7sb54GAncPs/view?usp=drive_link
 
 ---
+## Personal Information 👻
+- STUDENT_ID : 2301671052
+- NAME       : Sithira Roneth
+- BATCH      : GSDE-67 (Panadura)
