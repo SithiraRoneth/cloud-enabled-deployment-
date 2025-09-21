@@ -48,3 +48,5 @@ spring.datasource.password=<PASSWORD>
 - STUDENT_ID : 2301671052
 - NAME       : Sithira Roneth
 - BATCH      : GSDE-67 (Panadura)
+- CONTACT NO : 070 406 8026
+- EMAIL      : sithiraroneth@gmail.com
